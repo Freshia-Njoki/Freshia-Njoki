@@ -1,6 +1,6 @@
 #Hi There, I'm Freshia! :wave:
 # 💫 About Me:
-💻 DevOps Engineer | Backend Developer
+💻 DevOps Engineer | Azure Cloud | SWE
 
 🔭 Working with Azure Cloud, CI/CD, and cloud-native applications  
 🤝 Open to collaboration on DevOps, backend, and open-source projects  
