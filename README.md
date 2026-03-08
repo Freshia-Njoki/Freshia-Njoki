@@ -1,6 +1,11 @@
 #Hi There, I'm Freshia! :wave:
 # 💫 About Me:
-**🐱‍🏍I'm currently working on self-growth in the tech field.<br>👯‍♂️I'm looking to collaborate on software development.<br>✨I'm currently learning cloud computing<br>🌱Fun fact - what's undoable becomes my hobby till its doable.**
+💻 DevOps Engineer | Backend Developer
+
+🔭 Working with Azure Cloud, CI/CD, and cloud-native applications  
+🤝 Open to collaboration on DevOps, backend, and open-source projects  
+📚 Currently learning advanced cloud architecture and AI on Azure  
+⚡ Fun fact: What seems impossible becomes my next challenge to solve
 
 
 ## 🌐 Socials:
